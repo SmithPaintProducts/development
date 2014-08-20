@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Pennsylvania Avenue</title>
+   	<link>../..</link>
+        <generator>jAlbum 11</generator>
+   		<description></description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+        <item>
+            <title>n_1closeup</title>
+            <link>slides/n_1closeup.html</link>
+            <pubDate>Wed, 18 Sep 2013 02:39:54 -0400</pubDate>
+            <description>Pennsylvania Avenue | crosswalk rejuvenated with CF-240 Mars Red</description>
+            <media:description type="html">Pennsylvania Avenue | crosswalk rejuvenated with CF-240 Mars Red</media:description>
+            <media:thumbnail url="thumbs/n_1closeup.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="n_1closeup.jpg" width="281" height="375"/>
+            <jalbum:exif originalDate="11/1/03 3:17 PM" cameraMake="Canon" cameraModel="Canon PowerShot A20"/>
+            <guid isPermaLink="false">n_1closeup.jpg</guid>
+        </item>
+        <item>
+            <title>n_2before</title>
+            <link>slides/n_2before.html</link>
+            <pubDate>Wed, 18 Sep 2013 02:39:54 -0400</pubDate>
+            <description>Pennsylvania Avenue | crosswalk before Smith&rsquo;s Color Floor stain</description>
+            <media:description type="html">Pennsylvania Avenue | crosswalk before Smith&rsquo;s Color Floor stain</media:description>
+            <media:thumbnail url="thumbs/n_2before.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="n_2before.jpg" width="334" height="375"/>
+            <jalbum:exif originalDate="11/1/03 2:44 PM" cameraMake="Canon" cameraModel="Canon PowerShot A20"/>
+            <guid isPermaLink="false">n_2before.jpg</guid>
+        </item>
+        <item>
+            <title>p_1whitehouse</title>
+            <link>slides/p_1whitehouse.html</link>
+            <pubDate>Wed, 18 Sep 2013 02:39:54 -0400</pubDate>
+            <description>White House</description>
+            <media:description type="html">White House</media:description>
+            <media:thumbnail url="thumbs/p_1whitehouse.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="p_1whitehouse.jpg" width="454" height="375"/>
+            <jalbum:exif originalDate="11/1/03 2:55 PM" cameraMake="Canon" cameraModel="Canon PowerShot A20"/>
+            <guid isPermaLink="false">p_1whitehouse.jpg</guid>
+        </item>
+        <item>
+            <title>p_2washingon_monument</title>
+            <link>slides/p_2washingon_monument.html</link>
+            <pubDate>Wed, 18 Sep 2013 02:39:54 -0400</pubDate>
+            <description>Washington Monument</description>
+            <media:description type="html">Washington Monument</media:description>
+            <media:thumbnail url="thumbs/p_2washingon_monument.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="p_2washingon_monument.jpg" width="418" height="375"/>
+            <jalbum:exif originalDate="11/1/03 2:48 PM" cameraMake="Canon" cameraModel="Canon PowerShot A20"/>
+            <guid isPermaLink="false">p_2washingon_monument.jpg</guid>
+        </item>
+        <item>
+            <title>p_3penn-3rd</title>
+            <link>slides/p_3penn-3rd.html</link>
+            <pubDate>Wed, 18 Sep 2013 02:39:54 -0400</pubDate>
+            <description>Pennsylvania Avenue | &amp; 3rd Street crosswalk</description>
+            <media:description type="html">Pennsylvania Avenue | &amp; 3rd Street crosswalk</media:description>
+            <media:thumbnail url="thumbs/p_3penn-3rd.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="p_3penn-3rd.jpg" width="294" height="375"/>
+            <jalbum:exif originalDate="11/1/03 3:19 PM" cameraMake="Canon" cameraModel="Canon PowerShot A20"/>
+            <guid isPermaLink="false">p_3penn-3rd.jpg</guid>
+        </item>
+        <item>
+            <title>p_3penn-3rd1</title>
+            <link>slides/p_3penn-3rd1.html</link>
+            <pubDate>Wed, 18 Sep 2013 02:39:54 -0400</pubDate>
+            <description>Captial Building | from 3rd Street</description>
+            <media:description type="html">Captial Building | from 3rd Street</media:description>
+            <media:thumbnail url="thumbs/p_3penn-3rd1.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="p_3penn-3rd1.jpg" width="314" height="375"/>
+            <jalbum:exif originalDate="11/1/03 3:12 PM" cameraMake="Canon" cameraModel="Canon PowerShot A20"/>
+            <guid isPermaLink="false">p_3penn-3rd1.jpg</guid>
+        </item>
+        <item>
+            <title>p_3penn-3rd2</title>
+            <link>slides/p_3penn-3rd2.html</link>
+            <pubDate>Wed, 18 Sep 2013 02:39:54 -0400</pubDate>
+            <description>Captial Building | from 3rd Street</description>
+            <media:description type="html">Captial Building | from 3rd Street</media:description>
+            <media:thumbnail url="thumbs/p_3penn-3rd2.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="p_3penn-3rd2.jpg" width="499" height="375"/>
+            <jalbum:exif originalDate="11/1/03 3:13 PM" cameraMake="Canon" cameraModel="Canon PowerShot A20"/>
+            <guid isPermaLink="false">p_3penn-3rd2.jpg</guid>
+        </item>
+        <item>
+            <title>p_4penn_4th</title>
+            <link>slides/p_4penn_4th.html</link>
+            <pubDate>Wed, 18 Sep 2013 02:39:54 -0400</pubDate>
+            <description>Captial Building | from 4th Street</description>
+            <media:description type="html">Captial Building | from 4th Street</media:description>
+            <media:thumbnail url="thumbs/p_4penn_4th.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="p_4penn_4th.jpg" width="500" height="375"/>
+            <jalbum:exif originalDate="11/1/03 3:00 PM" cameraMake="Canon" cameraModel="Canon PowerShot A20"/>
+            <guid isPermaLink="false">p_4penn_4th.jpg</guid>
+        </item>
+        <item>
+            <title>p_5penn_8th</title>
+            <link>slides/p_5penn_8th.html</link>
+            <pubDate>Wed, 18 Sep 2013 02:39:54 -0400</pubDate>
+            <description>Captial Building | from 8th Street</description>
+            <media:description type="html">Captial Building | from 8th Street</media:description>
+            <media:thumbnail url="thumbs/p_5penn_8th.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="p_5penn_8th.jpg" width="613" height="375"/>
+            <jalbum:exif originalDate="11/1/03 3:06 PM" cameraMake="Canon" cameraModel="Canon PowerShot A20"/>
+            <guid isPermaLink="false">p_5penn_8th.jpg</guid>
+        </item>
+        <item>
+            <title>p_5penn_8th1</title>
+            <link>slides/p_5penn_8th1.html</link>
+            <pubDate>Wed, 18 Sep 2013 02:39:54 -0400</pubDate>
+            <description>Captial Building | from 8th Street</description>
+            <media:description type="html">Captial Building | from 8th Street</media:description>
+            <media:thumbnail url="thumbs/p_5penn_8th1.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="p_5penn_8th1.jpg" width="583" height="375"/>
+            <jalbum:exif originalDate="11/1/03 3:00 PM" cameraMake="Canon" cameraModel="Canon PowerShot A20"/>
+            <guid isPermaLink="false">p_5penn_8th1.jpg</guid>
+        </item>
+        <item>
+            <title>p_6penn_14th</title>
+            <link>slides/p_6penn_14th.html</link>
+            <pubDate>Wed, 18 Sep 2013 02:39:54 -0400</pubDate>
+            <description>Captial Building | from 14th Street</description>
+            <media:description type="html">Captial Building | from 14th Street</media:description>
+            <media:thumbnail url="thumbs/p_6penn_14th.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="p_6penn_14th.jpg" width="448" height="375"/>
+            <jalbum:exif originalDate="11/1/03 2:51 PM" cameraMake="Canon" cameraModel="Canon PowerShot A20"/>
+            <guid isPermaLink="false">p_6penn_14th.jpg</guid>
+        </item>
+        <item>
+            <title>p_7national_gallery_of_art</title>
+            <link>slides/p_7national_gallery_of_art.html</link>
+            <pubDate>Wed, 18 Sep 2013 02:39:54 -0400</pubDate>
+            <description>National Gallery Of Art</description>
+            <media:description type="html">National Gallery Of Art</media:description>
+            <media:thumbnail url="thumbs/p_7national_gallery_of_art.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="p_7national_gallery_of_art.jpg" width="260" height="375"/>
+            <jalbum:exif originalDate="11/1/03 3:07 PM" cameraMake="Canon" cameraModel="Canon PowerShot A20"/>
+            <guid isPermaLink="false">p_7national_gallery_of_art.jpg</guid>
+        </item>
+        <item>
+            <title>p_8department_of_justice</title>
+            <link>slides/p_8department_of_justice.html</link>
+            <pubDate>Wed, 18 Sep 2013 02:39:54 -0400</pubDate>
+            <description>Department of Justice</description>
+            <media:description type="html">Department of Justice</media:description>
+            <media:thumbnail url="thumbs/p_8department_of_justice.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="p_8department_of_justice.jpg" width="281" height="375"/>
+            <jalbum:exif originalDate="11/1/03 3:02 PM" cameraMake="Canon" cameraModel="Canon PowerShot A20"/>
+            <guid isPermaLink="false">p_8department_of_justice.jpg</guid>
+        </item>
+    </channel>
+</rss>

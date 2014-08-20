@@ -1,0 +1,25 @@
+#404container{
+	background-image:url('../images/404.gif')
+	height:625px;
+	width:925px;
+	padding:25px;
+	background-repeat:no-repeat;
+}
+
+#links{
+	color:#fff;
+	margin-top:350px;
+	margin-left:17px;
+	font-family:"Comic Sans MS", cursive;
+	font-size:18px;
+}
+
+#links a:link{
+margin--right:7px;
+}
+
+#links a:hover{
+margin--right:7px;
+color:#fe0d01;
+
+}

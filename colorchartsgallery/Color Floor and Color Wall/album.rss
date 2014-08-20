@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Color Floor and Color Wall</title>
+   	<link>..</link>
+        <generator>jAlbum 12</generator>
+   		<description></description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+        <item>
+            <title>Bright Lights Series</title>
+            <link>slides/Bright Lights Series.html</link>
+            <pubDate>Tue, 19 Aug 2014 16:50:43 -0400</pubDate>
+            <description>Bright Lights Series</description>
+            <media:description type="html">Bright Lights Series</media:description>
+            <media:thumbnail url="thumbs/Bright Lights Series.jpg" width="200" height="150"/>
+            <media:content type="image/png" url="Bright Lights Series.png" width="800" height="247"/>
+            <guid isPermaLink="false">Bright Lights Series.png</guid>
+        </item>
+        <item>
+            <title>Classic Series</title>
+            <link>slides/Classic Series.html</link>
+            <pubDate>Tue, 19 Aug 2014 16:50:43 -0400</pubDate>
+            <description>Classic Series</description>
+            <media:description type="html">Classic Series</media:description>
+            <media:thumbnail url="thumbs/Classic Series.jpg" width="200" height="150"/>
+            <media:content type="image/png" url="Classic Series.png" width="800" height="352"/>
+            <guid isPermaLink="false">Classic Series.png</guid>
+        </item>
+        <item>
+            <title>Old World Series</title>
+            <link>slides/Old World Series.html</link>
+            <pubDate>Tue, 19 Aug 2014 16:50:43 -0400</pubDate>
+            <description>Old World Series</description>
+            <media:description type="html">Old World Series</media:description>
+            <media:thumbnail url="thumbs/Old World Series.jpg" width="200" height="150"/>
+            <media:content type="image/png" url="Old World Series.png" width="800" height="212"/>
+            <guid isPermaLink="false">Old World Series.png</guid>
+        </item>
+    </channel>
+</rss>

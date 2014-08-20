@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_60" class="java.beans.XMLDecoder">
+ <object class="java.util.HashMap">
+  <void method="put">
+   <string>title</string>
+   <string>Bright Lights Series</string>
+  </void>
+  <void method="put">
+   <string>hideLocation</string>
+   <boolean>false</boolean>
+  </void>
+  <void method="put">
+   <string>includeOriginal</string>
+   <boolean>true</boolean>
+  </void>
+ </object>
+</java>

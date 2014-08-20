@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Stains, Accents, and Additives</title>
+   	<link>..</link>
+        <generator>jAlbum 12</generator>
+   		<description></description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+        <item>
+            <title>Smith's Liquid Dyes Color Chart</title>
+            <link>slides/Liquid Dye Color Chart.html</link>
+            <pubDate>Tue, 19 Aug 2014 16:50:44 -0400</pubDate>
+            <description>Liquid Dyes Color Chart</description>
+            <media:description type="html">Liquid Dyes Color Chart</media:description>
+            <media:thumbnail url="thumbs/Liquid Dye Color Chart.jpg" width="200" height="150"/>
+            <media:content type="image/jpeg" url="Liquid Dye Color Chart.jpg" width="843" height="797"/>
+            <guid isPermaLink="false">Liquid Dye Color Chart.jpg</guid>
+        </item>
+    </channel>
+</rss>

@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>4 in 1 Overlay</title>
+   	<link>..</link>
+        <generator>jAlbum 11</generator>
+   		<description></description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+        <item>
+            <title>a1bathroom</title>
+            <link>slides/a1bathroom.html</link>
+            <pubDate>Wed, 18 Sep 2013 02:39:56 -0400</pubDate>
+            <description>Rejuvenated Bathroom</description>
+            <media:description type="html">Rejuvenated Bathroom</media:description>
+            <media:thumbnail url="thumbs/a1bathroom.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="a1bathroom.jpg" width="564" height="375"/>
+            <jalbum:exif originalDate="2/27/06 6:05 PM" cameraMake="NIKON CORPORATION" cameraModel="NIKON D100 "/>
+            <guid isPermaLink="false">a1bathroom.jpg</guid>
+        </item>
+        <item>
+            <title>a2commercial_entrance</title>
+            <link>slides/a2commercial_entrance.html</link>
+            <pubDate>Wed, 18 Sep 2013 02:39:56 -0400</pubDate>
+            <description>Commercial Buiilding Entrance</description>
+            <media:description type="html">Commercial Buiilding Entrance</media:description>
+            <media:thumbnail url="thumbs/a2commercial_entrance.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="a2commercial_entrance.jpg" width="249" height="375"/>
+            <guid isPermaLink="false">a2commercial_entrance.jpg</guid>
+        </item>
+        <item>
+            <title>a3countertop</title>
+            <link>slides/a3countertop.html</link>
+            <pubDate>Wed, 18 Sep 2013 02:39:56 -0400</pubDate>
+            <description>Countertop</description>
+            <media:description type="html">Countertop</media:description>
+            <media:thumbnail url="thumbs/a3countertop.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="a3countertop.jpg" width="362" height="375"/>
+            <jalbum:exif originalDate="2/27/06 6:00 PM" cameraMake="NIKON CORPORATION" cameraModel="NIKON D100 "/>
+            <guid isPermaLink="false">a3countertop.jpg</guid>
+        </item>
+        <item>
+            <title>a4cut_varied_flagstone</title>
+            <link>slides/a4cut_varied_flagstone.html</link>
+            <pubDate>Wed, 18 Sep 2013 02:39:56 -0400</pubDate>
+            <description>Random Ashlar</description>
+            <media:description type="html">Random Ashlar</media:description>
+            <media:thumbnail url="thumbs/a4cut_varied_flagstone.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="a4cut_varied_flagstone.jpg" width="675" height="375"/>
+            <guid isPermaLink="false">a4cut_varied_flagstone.jpg</guid>
+        </item>
+        <item>
+            <title>a5faux_brick_driveway</title>
+            <link>slides/a5faux_brick_driveway.html</link>
+            <pubDate>Wed, 18 Sep 2013 02:39:56 -0400</pubDate>
+            <description>Faux Brick Driveway</description>
+            <media:description type="html">Faux Brick Driveway</media:description>
+            <media:thumbnail url="thumbs/a5faux_brick_driveway.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="a5faux_brick_driveway.jpg" width="564" height="375"/>
+            <jalbum:exif originalDate="6/26/08 8:17 AM" cameraMake="NIKON CORPORATION" cameraModel="NIKON D100 "/>
+            <guid isPermaLink="false">a5faux_brick_driveway.jpg</guid>
+        </item>
+        <item>
+            <title>a6flagstone_patio</title>
+            <link>slides/a6flagstone_patio.html</link>
+            <pubDate>Wed, 18 Sep 2013 02:39:56 -0400</pubDate>
+            <description>Flagstone Patio</description>
+            <media:description type="html">Flagstone Patio</media:description>
+            <media:thumbnail url="thumbs/a6flagstone_patio.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="a6flagstone_patio.jpg" width="249" height="375"/>
+            <jalbum:exif originalDate="7/24/08 2:39 PM" cameraMake="NIKON CORPORATION" cameraModel="NIKON D100 "/>
+            <guid isPermaLink="false">a6flagstone_patio.jpg</guid>
+        </item>
+        <item>
+            <title>a7pooldeck</title>
+            <link>slides/a7pooldeck.html</link>
+            <pubDate>Wed, 18 Sep 2013 02:39:56 -0400</pubDate>
+            <description>Pool Deck</description>
+            <media:description type="html">Pool Deck</media:description>
+            <media:thumbnail url="thumbs/a7pooldeck.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="a7pooldeck.jpg" width="500" height="375"/>
+            <jalbum:exif originalDate="7/24/10 7:44 PM" cameraMake="FUJIFILM" cameraModel="FinePix S5000 "/>
+            <guid isPermaLink="false">a7pooldeck.jpg</guid>
+        </item>
+        <item>
+            <title>a8pooldeck_vertical_columns</title>
+            <link>slides/a8pooldeck_vertical_columns.html</link>
+            <pubDate>Wed, 18 Sep 2013 02:39:56 -0400</pubDate>
+            <description>Pool Deck &amp; Vertical Columns</description>
+            <media:description type="html">Pool Deck &amp; Vertical Columns</media:description>
+            <media:thumbnail url="thumbs/a8pooldeck_vertical_columns.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="a8pooldeck_vertical_columns.jpg" width="564" height="375"/>
+            <jalbum:exif originalDate="10/31/05 11:19 AM" cameraMake="NIKON CORPORATION" cameraModel="NIKON D70s"/>
+            <guid isPermaLink="false">a8pooldeck_vertical_columns.jpg</guid>
+        </item>
+        <item>
+            <title>b1spray_deck_entrance</title>
+            <link>slides/b1spray_deck_entrance.html</link>
+            <pubDate>Wed, 18 Sep 2013 02:39:56 -0400</pubDate>
+            <description>Spray Texture</description>
+            <media:description type="html">Spray Texture</media:description>
+            <media:thumbnail url="thumbs/b1spray_deck_entrance.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="b1spray_deck_entrance.jpg" width="249" height="375"/>
+            <jalbum:exif originalDate="4/25/09 9:14 AM" cameraMake="NIKON CORPORATION" cameraModel="NIKON D100 "/>
+            <guid isPermaLink="false">b1spray_deck_entrance.jpg</guid>
+        </item>
+        <item>
+            <title>a9random_flagstone_patio</title>
+            <link>slides/a9random_flagstone_patio.html</link>
+            <pubDate>Wed, 18 Sep 2013 02:39:56 -0400</pubDate>
+            <description>Flagstone Patio</description>
+            <media:description type="html">Flagstone Patio</media:description>
+            <media:thumbnail url="thumbs/a9random_flagstone_patio.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="a9random_flagstone_patio.jpg" width="400" height="375"/>
+            <guid isPermaLink="false">a9random_flagstone_patio.jpg</guid>
+        </item>
+        <item>
+            <title>b2spray_knockdown_pooldeck</title>
+            <link>slides/b2spray_knockdown_pooldeck.html</link>
+            <pubDate>Wed, 18 Sep 2013 02:39:56 -0400</pubDate>
+            <description>Knockdown Spray Texture</description>
+            <media:description type="html">Knockdown Spray Texture</media:description>
+            <media:thumbnail url="thumbs/b2spray_knockdown_pooldeck.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="b2spray_knockdown_pooldeck.jpg" width="563" height="375"/>
+            <guid isPermaLink="false">b2spray_knockdown_pooldeck.jpg</guid>
+        </item>
+        <item>
+            <title>b3toyota_car_dealer</title>
+            <link>slides/b3toyota_car_dealer.html</link>
+            <pubDate>Wed, 18 Sep 2013 02:39:56 -0400</pubDate>
+            <description>Car Dealership</description>
+            <media:description type="html">Car Dealership</media:description>
+            <media:thumbnail url="thumbs/b3toyota_car_dealer.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="b3toyota_car_dealer.jpg" width="563" height="375"/>
+            <jalbum:exif originalDate="11/21/02 9:09 PM" cameraMake="FUJIFILM" cameraModel="FinePixS1Pro"/>
+            <guid isPermaLink="false">b3toyota_car_dealer.jpg</guid>
+        </item>
+        <item>
+            <title>b4toyota_car_dealer</title>
+            <link>slides/b4toyota_car_dealer.html</link>
+            <pubDate>Wed, 18 Sep 2013 02:39:56 -0400</pubDate>
+            <description>Car Dealership</description>
+            <media:description type="html">Car Dealership</media:description>
+            <media:thumbnail url="thumbs/b4toyota_car_dealer.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="b4toyota_car_dealer.jpg" width="292" height="375"/>
+            <jalbum:exif originalDate="11/21/02 9:07 PM" cameraMake="FUJIFILM" cameraModel="FinePixS1Pro"/>
+            <guid isPermaLink="false">b4toyota_car_dealer.jpg</guid>
+        </item>
+        <item>
+            <title>b5walk_steps</title>
+            <link>slides/b5walk_steps.html</link>
+            <pubDate>Wed, 18 Sep 2013 02:39:56 -0400</pubDate>
+            <description>Walkway &amp; Steps</description>
+            <media:description type="html">Walkway &amp; Steps</media:description>
+            <media:thumbnail url="thumbs/b5walk_steps.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="b5walk_steps.jpg" width="468" height="375"/>
+            <jalbum:exif originalDate="10/25/05 11:34 AM" cameraMake="NIKON CORPORATION" cameraModel="NIKON D70s"/>
+            <guid isPermaLink="false">b5walk_steps.jpg</guid>
+        </item>
+        <item>
+            <title>b6wine_cellar</title>
+            <link>slides/b6wine_cellar.html</link>
+            <pubDate>Wed, 18 Sep 2013 02:39:56 -0400</pubDate>
+            <description>Wine Cellar</description>
+            <media:description type="html">Wine Cellar</media:description>
+            <media:thumbnail url="thumbs/b6wine_cellar.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="b6wine_cellar.jpg" width="249" height="375"/>
+            <jalbum:exif originalDate="12/15/04 5:44 PM" cameraMake="NIKON CORPORATION" cameraModel="NIKON D100 "/>
+            <guid isPermaLink="false">b6wine_cellar.jpg</guid>
+        </item>
+    </channel>
+</rss>

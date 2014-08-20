@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>photo_gallery7</title>
+   	<link>../..</link>
+        <generator>jAlbum 11</generator>
+   		<description></description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+        <item>
+            <title>OA5</title>
+            <link>slides/OA5.html</link>
+            <pubDate>Tue, 27 Aug 2013 21:35:17 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/OA5.png" width="200" height="150"/>
+            <media:content type="image/png" url="OA5.png" width="650" height="381"/>
+            <guid isPermaLink="false">OA5.png</guid>
+        </item>
+        <item>
+            <title>OA4</title>
+            <link>slides/OA4.html</link>
+            <pubDate>Tue, 27 Aug 2013 21:35:17 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/OA4.png" width="200" height="150"/>
+            <media:content type="image/png" url="OA4.png" width="650" height="550"/>
+            <guid isPermaLink="false">OA4.png</guid>
+        </item>
+        <item>
+            <title>OA3</title>
+            <link>slides/OA3.html</link>
+            <pubDate>Tue, 27 Aug 2013 21:35:17 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/OA3.png" width="200" height="150"/>
+            <media:content type="image/png" url="OA3.png" width="650" height="549"/>
+            <guid isPermaLink="false">OA3.png</guid>
+        </item>
+        <item>
+            <title>OA2</title>
+            <link>slides/OA2.html</link>
+            <pubDate>Tue, 27 Aug 2013 21:35:17 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/OA2.png" width="200" height="150"/>
+            <media:content type="image/png" url="OA2.png" width="800" height="448"/>
+            <guid isPermaLink="false">OA2.png</guid>
+        </item>
+        <item>
+            <title>OA1</title>
+            <link>slides/OA1.html</link>
+            <pubDate>Tue, 27 Aug 2013 21:35:17 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/OA1.png" width="200" height="150"/>
+            <media:content type="image/png" url="OA1.png" width="705" height="550"/>
+            <guid isPermaLink="false">OA1.png</guid>
+        </item>
+    </channel>
+</rss>

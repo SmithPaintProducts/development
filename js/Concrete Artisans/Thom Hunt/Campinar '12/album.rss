@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Campinar '12</title>
+   	<link>../../..</link>
+        <generator>jAlbum 11</generator>
+   		<description></description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+        <item>
+            <title>folderthumb</title>
+            <link>slides/folderthumb.html</link>
+            <pubDate>Wed, 18 Sep 2013 02:39:59 -0400</pubDate>
+            <description>Campinar '12</description>
+            <media:description type="html">Campinar '12</media:description>
+            <media:thumbnail url="thumbs/folderthumb.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="folderthumb.jpg" width="300" height="300"/>
+            <guid isPermaLink="false">folderthumb.jpg</guid>
+        </item>
+        <item>
+            <title>folderimage</title>
+            <link>slides/folderimage.html</link>
+            <pubDate>Wed, 18 Sep 2013 02:39:59 -0400</pubDate>
+            <description>Campinar '12</description>
+            <media:description type="html">Campinar '12</media:description>
+            <media:thumbnail url="thumbs/folderimage.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="folderimage.jpg" width="500" height="239"/>
+            <guid isPermaLink="false">folderimage.jpg</guid>
+        </item>
+        <item>
+            <title>grill</title>
+            <link>slides/grill.html</link>
+            <pubDate>Wed, 18 Sep 2013 02:39:59 -0400</pubDate>
+            <description>Campinar '12</description>
+            <media:description type="html">Campinar '12</media:description>
+            <media:thumbnail url="thumbs/grill.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="grill.jpg" width="562" height="375"/>
+            <jalbum:exif originalDate="6/2/12 1:45 PM" cameraMake="SONY" cameraModel="DSC-H1"/>
+            <guid isPermaLink="false">grill.jpg</guid>
+        </item>
+        <item>
+            <title>rat_counter_top</title>
+            <link>slides/rat_counter_top.html</link>
+            <pubDate>Wed, 18 Sep 2013 02:39:59 -0400</pubDate>
+            <description>Campinar '12</description>
+            <media:description type="html">Campinar '12</media:description>
+            <media:thumbnail url="thumbs/rat_counter_top.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="rat_counter_top.jpg" width="568" height="375"/>
+            <jalbum:exif originalDate="6/2/12 1:45 PM" cameraMake="SONY" cameraModel="DSC-H1"/>
+            <guid isPermaLink="false">rat_counter_top.jpg</guid>
+        </item>
+        <item>
+            <title>thunt_artisans</title>
+            <link>slides/thunt_artisans.html</link>
+            <pubDate>Wed, 18 Sep 2013 02:39:59 -0400</pubDate>
+            <description>Campinar '12</description>
+            <media:description type="html">Campinar '12</media:description>
+            <media:thumbnail url="thumbs/thunt_artisans.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="thunt_artisans.jpg" width="500" height="375"/>
+            <jalbum:exif originalDate="5/31/12 1:28 PM" cameraMake="SONY" cameraModel="DSC-H1"/>
+            <guid isPermaLink="false">thunt_artisans.jpg</guid>
+        </item>
+        <item>
+            <title>thunt_colorwall</title>
+            <link>slides/thunt_colorwall.html</link>
+            <pubDate>Wed, 18 Sep 2013 02:39:59 -0400</pubDate>
+            <description>Campinar '12</description>
+            <media:description type="html">Campinar '12</media:description>
+            <media:thumbnail url="thumbs/thunt_colorwall.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="thunt_colorwall.jpg" width="500" height="375"/>
+            <jalbum:exif originalDate="6/2/12 9:19 AM" cameraMake="SONY" cameraModel="DSC-H1"/>
+            <guid isPermaLink="false">thunt_colorwall.jpg</guid>
+        </item>
+    </channel>
+</rss>

@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>AR River Mural</title>
+   	<link>../../..</link>
+        <generator>jAlbum 11</generator>
+   		<description></description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+        <item>
+            <title>1river_mouth_ariel_view</title>
+            <link>slides/1river_mouth_ariel_view.html</link>
+            <pubDate>Wed, 18 Sep 2013 02:39:57 -0400</pubDate>
+            <description>River Mural | at Central Arkansas Library</description>
+            <media:description type="html">River Mural | at Central Arkansas Library</media:description>
+            <media:thumbnail url="thumbs/1river_mouth_ariel_view.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="1river_mouth_ariel_view.jpg" width="993" height="375"/>
+            <jalbum:exif originalDate="4/24/09 10:34 AM" cameraMake="NIKON CORPORATION" cameraModel="NIKON D300"/>
+            <guid isPermaLink="false">1river_mouth_ariel_view.jpg</guid>
+        </item>
+        <item>
+            <title>2scott_to_stutgart</title>
+            <link>slides/2scott_to_stutgart.html</link>
+            <pubDate>Wed, 18 Sep 2013 02:39:57 -0400</pubDate>
+            <description>River Mural | bird's eye view</description>
+            <media:description type="html">River Mural | bird's eye view</media:description>
+            <media:thumbnail url="thumbs/2scott_to_stutgart.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="2scott_to_stutgart.jpg" width="596" height="375"/>
+            <jalbum:exif originalDate="4/24/09 5:45 PM" cameraMake="NIKON CORPORATION" cameraModel="NIKON D300"/>
+            <guid isPermaLink="false">2scott_to_stutgart.jpg</guid>
+        </item>
+        <item>
+            <title>3mural_to_lr_star</title>
+            <link>slides/3mural_to_lr_star.html</link>
+            <pubDate>Wed, 18 Sep 2013 02:39:57 -0400</pubDate>
+            <description>River Mural | to star</description>
+            <media:description type="html">River Mural | to star</media:description>
+            <media:thumbnail url="thumbs/3mural_to_lr_star.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="3mural_to_lr_star.jpg" width="249" height="375"/>
+            <jalbum:exif originalDate="4/24/09 10:39 AM" cameraMake="NIKON CORPORATION" cameraModel="NIKON D300"/>
+            <guid isPermaLink="false">3mural_to_lr_star.jpg</guid>
+        </item>
+        <item>
+            <title>4entire_length</title>
+            <link>slides/4entire_length.html</link>
+            <pubDate>Wed, 18 Sep 2013 02:39:57 -0400</pubDate>
+            <description>River Mural | bird's eye view</description>
+            <media:description type="html">River Mural | bird's eye view</media:description>
+            <media:thumbnail url="thumbs/4entire_length.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="4entire_length.jpg" width="245" height="375"/>
+            <jalbum:exif originalDate="4/24/09 10:34 AM" cameraMake="NIKON CORPORATION" cameraModel="NIKON D300"/>
+            <guid isPermaLink="false">4entire_length.jpg</guid>
+        </item>
+        <item>
+            <title>5looking_west</title>
+            <link>slides/5looking_west.html</link>
+            <pubDate>Wed, 18 Sep 2013 02:39:57 -0400</pubDate>
+            <description>West view | of the River Mural</description>
+            <media:description type="html">West view | of the River Mural</media:description>
+            <media:thumbnail url="thumbs/5looking_west.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="5looking_west.jpg" width="249" height="375"/>
+            <jalbum:exif originalDate="4/24/09 6:53 AM" cameraMake="NIKON CORPORATION" cameraModel="NIKON D300"/>
+            <guid isPermaLink="false">5looking_west.jpg</guid>
+        </item>
+        <item>
+            <title>6entire_mural</title>
+            <link>slides/6entire_mural.html</link>
+            <pubDate>Wed, 18 Sep 2013 02:39:57 -0400</pubDate>
+            <description>River Mural | overview</description>
+            <media:description type="html">River Mural | overview</media:description>
+            <media:thumbnail url="thumbs/6entire_mural.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="6entire_mural.jpg" width="257" height="375"/>
+            <jalbum:exif originalDate="4/24/09 2:59 PM" cameraMake="NIKON CORPORATION" cameraModel="NIKON D300"/>
+            <guid isPermaLink="false">6entire_mural.jpg</guid>
+        </item>
+        <item>
+            <title>7porcelain_doll</title>
+            <link>slides/7porcelain_doll.html</link>
+            <pubDate>Wed, 18 Sep 2013 02:39:57 -0400</pubDate>
+            <description>Porcelain Doll</description>
+            <media:description type="html">Porcelain Doll</media:description>
+            <media:thumbnail url="thumbs/7porcelain_doll.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="7porcelain_doll.jpg" width="565" height="375"/>
+            <jalbum:exif originalDate="4/24/09 8:16 AM" cameraMake="NIKON CORPORATION" cameraModel="NIKON D300"/>
+            <guid isPermaLink="false">7porcelain_doll.jpg</guid>
+        </item>
+        <item>
+            <title>8ned_christie_rifle</title>
+            <link>slides/8ned_christie_rifle.html</link>
+            <pubDate>Wed, 18 Sep 2013 02:39:57 -0400</pubDate>
+            <description>Ned Christie's Rifle</description>
+            <media:description type="html">Ned Christie's Rifle</media:description>
+            <media:thumbnail url="thumbs/8ned_christie_rifle.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="8ned_christie_rifle.jpg" width="565" height="375"/>
+            <jalbum:exif originalDate="4/24/09 8:53 AM" cameraMake="NIKON CORPORATION" cameraModel="NIKON D300"/>
+            <guid isPermaLink="false">8ned_christie_rifle.jpg</guid>
+        </item>
+        <item>
+            <title>9hat</title>
+            <link>slides/9hat.html</link>
+            <pubDate>Wed, 18 Sep 2013 02:39:57 -0400</pubDate>
+            <description>Hat</description>
+            <media:description type="html">Hat</media:description>
+            <media:thumbnail url="thumbs/9hat.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="9hat.jpg" width="565" height="375"/>
+            <jalbum:exif originalDate="4/24/09 8:18 AM" cameraMake="NIKON CORPORATION" cameraModel="NIKON D300"/>
+            <guid isPermaLink="false">9hat.jpg</guid>
+        </item>
+        <item>
+            <title>a1french_revolver</title>
+            <link>slides/a1french_revolver.html</link>
+            <pubDate>Wed, 18 Sep 2013 02:39:57 -0400</pubDate>
+            <description>French Revolver</description>
+            <media:description type="html">French Revolver</media:description>
+            <media:thumbnail url="thumbs/a1french_revolver.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="a1french_revolver.jpg" width="565" height="375"/>
+            <jalbum:exif originalDate="4/24/09 8:59 AM" cameraMake="NIKON CORPORATION" cameraModel="NIKON D300"/>
+            <guid isPermaLink="false">a1french_revolver.jpg</guid>
+        </item>
+        <item>
+            <title>a2duck_pot</title>
+            <link>slides/a2duck_pot.html</link>
+            <pubDate>Wed, 18 Sep 2013 02:39:57 -0400</pubDate>
+            <description>Duck Pot</description>
+            <media:description type="html">Duck Pot</media:description>
+            <media:thumbnail url="thumbs/a2duck_pot.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="a2duck_pot.jpg" width="565" height="375"/>
+            <jalbum:exif originalDate="4/24/09 8:17 AM" cameraMake="NIKON CORPORATION" cameraModel="NIKON D300"/>
+            <guid isPermaLink="false">a2duck_pot.jpg</guid>
+        </item>
+        <item>
+            <title>a3coal_shovel</title>
+            <link>slides/a3coal_shovel.html</link>
+            <pubDate>Wed, 18 Sep 2013 02:39:57 -0400</pubDate>
+            <description>Coal Shovel</description>
+            <media:description type="html">Coal Shovel</media:description>
+            <media:thumbnail url="thumbs/a3coal_shovel.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="a3coal_shovel.jpg" width="683" height="375"/>
+            <jalbum:exif originalDate="4/24/09 8:42 AM" cameraMake="NIKON CORPORATION" cameraModel="NIKON D300"/>
+            <guid isPermaLink="false">a3coal_shovel.jpg</guid>
+        </item>
+        <item>
+            <title>a4silver_spoon</title>
+            <link>slides/a4silver_spoon.html</link>
+            <pubDate>Wed, 18 Sep 2013 02:39:57 -0400</pubDate>
+            <description>Silver Spoon</description>
+            <media:description type="html">Silver Spoon</media:description>
+            <media:thumbnail url="thumbs/a4silver_spoon.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="a4silver_spoon.jpg" width="585" height="375"/>
+            <jalbum:exif originalDate="4/24/09 5:50 PM" cameraMake="NIKON CORPORATION" cameraModel="NIKON D300"/>
+            <guid isPermaLink="false">a4silver_spoon.jpg</guid>
+        </item>
+        <item>
+            <title>a5sword</title>
+            <link>slides/a5sword.html</link>
+            <pubDate>Wed, 18 Sep 2013 02:39:57 -0400</pubDate>
+            <description>Sword Handle</description>
+            <media:description type="html">Sword Handle</media:description>
+            <media:thumbnail url="thumbs/a5sword.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="a5sword.jpg" width="565" height="375"/>
+            <jalbum:exif originalDate="4/24/09 8:20 AM" cameraMake="NIKON CORPORATION" cameraModel="NIKON D300"/>
+            <guid isPermaLink="false">a5sword.jpg</guid>
+        </item>
+        <item>
+            <title>a6railroad_locks</title>
+            <link>slides/a6railroad_locks.html</link>
+            <pubDate>Wed, 18 Sep 2013 02:39:57 -0400</pubDate>
+            <description>Padlock &amp; Key</description>
+            <media:description type="html">Padlock &amp; Key</media:description>
+            <media:thumbnail url="thumbs/a6railroad_locks.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="a6railroad_locks.jpg" width="565" height="375"/>
+            <jalbum:exif originalDate="4/24/09 8:12 AM" cameraMake="NIKON CORPORATION" cameraModel="NIKON D300"/>
+            <guid isPermaLink="false">a6railroad_locks.jpg</guid>
+        </item>
+        <item>
+            <title>b1violin_head</title>
+            <link>slides/b1violin_head.html</link>
+            <pubDate>Wed, 18 Sep 2013 02:39:57 -0400</pubDate>
+            <description>Violin Scroll</description>
+            <media:description type="html">Violin Scroll</media:description>
+            <media:thumbnail url="thumbs/b1violin_head.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="b1violin_head.jpg" width="478" height="375"/>
+            <jalbum:exif originalDate="3/22/09 6:56 PM" cameraMake="NIKON CORPORATION" cameraModel="NIKON D300"/>
+            <guid isPermaLink="false">b1violin_head.jpg</guid>
+        </item>
+        <item>
+            <title>b2toltec_bowl</title>
+            <link>slides/b2toltec_bowl.html</link>
+            <pubDate>Wed, 18 Sep 2013 02:39:57 -0400</pubDate>
+            <description>Broken Bowl</description>
+            <media:description type="html">Broken Bowl</media:description>
+            <media:thumbnail url="thumbs/b2toltec_bowl.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="b2toltec_bowl.jpg" width="565" height="375"/>
+            <jalbum:exif originalDate="4/24/09 8:18 AM" cameraMake="NIKON CORPORATION" cameraModel="NIKON D300"/>
+            <guid isPermaLink="false">b2toltec_bowl.jpg</guid>
+        </item>
+        <item>
+            <title>b3violin_head</title>
+            <link>slides/b3violin_head.html</link>
+            <pubDate>Wed, 18 Sep 2013 02:39:57 -0400</pubDate>
+            <description>Violin scroll | close up</description>
+            <media:description type="html">Violin scroll | close up</media:description>
+            <media:thumbnail url="thumbs/b3violin_head.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="b3violin_head.jpg" width="249" height="375"/>
+            <jalbum:exif originalDate="4/24/09 8:14 AM" cameraMake="NIKON CORPORATION" cameraModel="NIKON D300"/>
+            <guid isPermaLink="false">b3violin_head.jpg</guid>
+        </item>
+        <item>
+            <title>folderthumb</title>
+            <link>slides/folderthumb.html</link>
+            <pubDate>Wed, 18 Sep 2013 02:39:57 -0400</pubDate>
+            <description>Historic Padlocks</description>
+            <media:description type="html">Historic Padlocks</media:description>
+            <media:thumbnail url="thumbs/folderthumb.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="folderthumb.jpg" width="249" height="300"/>
+            <guid isPermaLink="false">folderthumb.jpg</guid>
+        </item>
+    </channel>
+</rss>

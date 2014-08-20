@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>photo_gallery</title>
+   	<link>../..</link>
+        <generator>jAlbum 11</generator>
+   		<description></description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+        <item>
+            <title>photo_collage</title>
+            <link>slides/photo_collage.html</link>
+            <pubDate>Tue, 27 Aug 2013 21:35:17 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/photo_collage.jpg" width="200" height="150"/>
+            <media:content type="image/jpeg" url="photo_collage.jpg" width="500" height="445"/>
+            <guid isPermaLink="false">photo_collage.jpg</guid>
+        </item>
+    </channel>
+</rss>

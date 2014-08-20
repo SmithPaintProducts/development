@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Concrete Decor '12</title>
+   	<link>../../..</link>
+        <generator>jAlbum 11</generator>
+   		<description></description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+        <item>
+            <title>1model_reality</title>
+            <link>slides/1model_reality.html</link>
+            <pubDate>Wed, 18 Sep 2013 02:40:00 -0400</pubDate>
+            <description>Model to scale | Scuplting the T-Rex</description>
+            <media:description type="html">Model to scale | Scuplting the T-Rex</media:description>
+            <media:thumbnail url="thumbs/1model_reality.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="1model_reality.jpg" width="565" height="375"/>
+            <jalbum:exif originalDate="2/22/12 4:50 PM" cameraMake="NIKON CORPORATION" cameraModel="NIKON D300"/>
+            <guid isPermaLink="false">1model_reality.jpg</guid>
+        </item>
+        <item>
+            <title>2t_hunt_carving</title>
+            <link>slides/2t_hunt_carving.html</link>
+            <pubDate>Wed, 18 Sep 2013 02:40:00 -0400</pubDate>
+            <description>Carving | Detailed scale and texture</description>
+            <media:description type="html">Carving | Detailed scale and texture</media:description>
+            <media:thumbnail url="thumbs/2t_hunt_carving.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="2t_hunt_carving.jpg" width="249" height="375"/>
+            <jalbum:exif originalDate="2/21/12 3:15 PM" cameraMake="NIKON CORPORATION" cameraModel="NIKON D300"/>
+            <guid isPermaLink="false">2t_hunt_carving.jpg</guid>
+        </item>
+        <item>
+            <title>3dinosaur_front</title>
+            <link>slides/3dinosaur_front.html</link>
+            <pubDate>Wed, 18 Sep 2013 02:40:00 -0400</pubDate>
+            <description>T-Rex | Front view</description>
+            <media:description type="html">T-Rex | Front view</media:description>
+            <media:thumbnail url="thumbs/3dinosaur_front.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="3dinosaur_front.jpg" width="249" height="375"/>
+            <jalbum:exif originalDate="2/24/12 3:33 PM" cameraMake="NIKON CORPORATION" cameraModel="NIKON D300"/>
+            <guid isPermaLink="false">3dinosaur_front.jpg</guid>
+        </item>
+        <item>
+            <title>4dinosaur_side</title>
+            <link>slides/4dinosaur_side.html</link>
+            <pubDate>Wed, 18 Sep 2013 02:40:00 -0400</pubDate>
+            <description>T-Rex | Side View</description>
+            <media:description type="html">T-Rex | Side View</media:description>
+            <media:thumbnail url="thumbs/4dinosaur_side.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="4dinosaur_side.jpg" width="565" height="375"/>
+            <jalbum:exif originalDate="2/24/12 3:37 PM" cameraMake="NIKON CORPORATION" cameraModel="NIKON D300"/>
+            <guid isPermaLink="false">4dinosaur_side.jpg</guid>
+        </item>
+    </channel>
+</rss>

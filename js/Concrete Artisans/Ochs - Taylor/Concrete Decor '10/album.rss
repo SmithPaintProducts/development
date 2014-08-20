@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Concrete Decor '10</title>
+   	<link>../../..</link>
+        <generator>jAlbum 11</generator>
+   		<description></description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+        <item>
+            <title>1oragami_snake</title>
+            <link>slides/1oragami_snake.html</link>
+            <pubDate>Wed, 18 Sep 2013 02:39:58 -0400</pubDate>
+            <description>Origami Snake | installed at The Children's Museum of Phoenix</description>
+            <media:description type="html">Origami Snake | installed at The Children's Museum of Phoenix</media:description>
+            <media:thumbnail url="thumbs/1oragami_snake.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="1oragami_snake.jpg" width="562" height="375"/>
+            <jalbum:exif originalDate="1/7/10 12:44 PM" cameraMake="NIKON CORPORATION" cameraModel="NIKON D300"/>
+            <guid isPermaLink="false">1oragami_snake.jpg</guid>
+        </item>
+        <item>
+            <title>2oragami_snake2</title>
+            <link>slides/2oragami_snake2.html</link>
+            <pubDate>Wed, 18 Sep 2013 02:39:58 -0400</pubDate>
+            <description>Origami Snake | installation directed by Steven Ochs &amp; Gerald Taylor</description>
+            <media:description type="html">Origami Snake | installation directed by Steven Ochs &amp; Gerald Taylor</media:description>
+            <media:thumbnail url="thumbs/2oragami_snake2.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="2oragami_snake2.jpg" width="448" height="375"/>
+            <jalbum:exif originalDate="1/7/10 12:47 PM" cameraMake="NIKON CORPORATION" cameraModel="NIKON D300"/>
+            <guid isPermaLink="false">2oragami_snake2.jpg</guid>
+        </item>
+        <item>
+            <title>3students_oragami_snake5</title>
+            <link>slides/3students_oragami_snake5.html</link>
+            <pubDate>Wed, 18 Sep 2013 02:39:58 -0400</pubDate>
+            <description>Students | apply Smith&rsquo;s Color Floor stain</description>
+            <media:description type="html">Students | apply Smith&rsquo;s Color Floor stain</media:description>
+            <media:thumbnail url="thumbs/3students_oragami_snake5.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="3students_oragami_snake5.jpg" width="581" height="375"/>
+            <jalbum:exif originalDate="1/5/10 11:32 AM" cameraMake="NIKON CORPORATION" cameraModel="NIKON D300"/>
+            <guid isPermaLink="false">3students_oragami_snake5.jpg</guid>
+        </item>
+        <item>
+            <title>4steve_students_group</title>
+            <link>slides/4steve_students_group.html</link>
+            <pubDate>Wed, 18 Sep 2013 02:39:58 -0400</pubDate>
+            <description>Steven Ochs | with the local students at The Children's Museum of Phoenix</description>
+            <media:description type="html">Steven Ochs | with the local students at The Children's Museum of Phoenix</media:description>
+            <media:thumbnail url="thumbs/4steve_students_group.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="4steve_students_group.jpg" width="249" height="375"/>
+            <jalbum:exif originalDate="1/5/10 12:50 PM" cameraMake="NIKON CORPORATION" cameraModel="NIKON D300"/>
+            <guid isPermaLink="false">4steve_students_group.jpg</guid>
+        </item>
+    </channel>
+</rss>

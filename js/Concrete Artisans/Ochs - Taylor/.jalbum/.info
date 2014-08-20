@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_25" class="java.beans.XMLDecoder">
+ <object class="java.util.HashMap">
+  <void method="put">
+   <string>lastFolderImageBlur</string>
+   <boolean>false</boolean>
+  </void>
+  <void method="put">
+   <string>lastFolderThumbSize</string>
+   <string>300x300</string>
+  </void>
+  <void method="put">
+   <string>lastFolderImagePath</string>
+   <string>Concrete Artisans/Ochs - Taylor/gerald_scores.jpg</string>
+  </void>
+  <void method="put">
+   <string>lastFolderImageSize</string>
+   <string>800x239</string>
+  </void>
+ </object>
+</java>

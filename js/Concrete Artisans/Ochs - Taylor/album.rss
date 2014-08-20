@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Ochs - Taylor</title>
+   	<link>../..</link>
+        <generator>jAlbum 11</generator>
+   		<description></description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+    	<jalbum:link rel="sub" href="AR River Mural/album.rss" />   	
+    	<jalbum:link rel="sub" href="Concrete Decor '10/album.rss" />   	
+    	<jalbum:link rel="sub" href="Farmers B - T/album.rss" />   	
+        <item>
+            <title>gerald_scores</title>
+            <link>slides/gerald_scores.html</link>
+            <pubDate>Wed, 18 Sep 2013 02:39:57 -0400</pubDate>
+            <description>Steven Ochs is a Professor of Art at Southern Arkansas University with 27 years of experience in education.</description>
+            <media:description type="html">Steven Ochs is a Professor of Art at Southern Arkansas University with 27 years of experience in education.</media:description>
+            <media:thumbnail url="thumbs/gerald_scores.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="gerald_scores.jpg" width="336" height="375"/>
+            <jalbum:exif originalDate="8/15/08 6:00 AM" cameraMake="NIKON CORPORATION" cameraModel="NIKON D70"/>
+            <guid isPermaLink="false">gerald_scores.jpg</guid>
+        </item>
+        <item>
+            <title>folderthumb</title>
+            <link>slides/folderthumb.html</link>
+            <pubDate>Wed, 18 Sep 2013 02:39:57 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/folderthumb.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="folderthumb.jpg" width="300" height="300"/>
+            <guid isPermaLink="false">folderthumb.jpg</guid>
+        </item>
+    </channel>
+</rss>

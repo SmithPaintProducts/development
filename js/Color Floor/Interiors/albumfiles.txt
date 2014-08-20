@@ -1,0 +1,42 @@
+# This file is created by JAlbum. It sets custom file filtering and ordering for this image directory.
+# Each row indicate a file and it's order. Files not listed here are added to the end of the album
+# Rows beginning with "-" indicate excluded files.
+# Rows containing a tab character indicate links, where the text before the tab is the logical file name
+# and the path to the right is the target path.
+# Note: This file allows absolute paths to files and directories in other locations and thereby
+# allows you to compile albums consisting of files from several different locations.
+
+1.jpg
+i-1demmert.jpg
+i-2demmert.jpg
+i-3demmert.jpg
+i-4demmert.jpg
+i-5demmert.jpg
+i-6monteith.jpg
+i-7demmert.jpg
+i-8demmert.jpg
+i-9demmert.jpg
+j-1parasconcrete.jpg
+j-2cronk.jpg
+j-3pipprinting.jpg
+j-4donnarosa.jpg
+j-5vancleave.jpg
+j-6vancleave.jpg
+j-7ochs.jpg
+j-8vancleave.jpg
+j-9vancleave.jpg
+k-1ochs.jpg
+k-2.jpg
+k-3monteith.jpg
+k-4monteith.jpg
+k-4monteith1.jpg
+k-5michaelcook.jpg
+k-6michaelcook.jpg
+k-7cronk1.jpg
+k-8mmeewis.jpg
+k-9meewisground.jpg
+l-1meewis5169.jpg
+l-2meewis5161.jpg
+-concrete_artisan1.jpg
+-folderimage.jpg
+-folderthumb.jpg

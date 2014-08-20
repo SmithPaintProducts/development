@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>photo_gallery9</title>
+   	<link>../..</link>
+        <generator>jAlbum 11</generator>
+   		<description></description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+        <item>
+            <title>WC5</title>
+            <link>slides/WC5.html</link>
+            <pubDate>Tue, 27 Aug 2013 21:35:18 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/WC5.png" width="200" height="150"/>
+            <media:content type="image/png" url="WC5.png" width="760" height="410"/>
+            <guid isPermaLink="false">WC5.png</guid>
+        </item>
+        <item>
+            <title>WC4</title>
+            <link>slides/WC4.html</link>
+            <pubDate>Tue, 27 Aug 2013 21:35:18 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/WC4.png" width="200" height="150"/>
+            <media:content type="image/png" url="WC4.png" width="760" height="410"/>
+            <guid isPermaLink="false">WC4.png</guid>
+        </item>
+        <item>
+            <title>WC6</title>
+            <link>slides/WC6.html</link>
+            <pubDate>Tue, 27 Aug 2013 21:35:18 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/WC6.png" width="200" height="150"/>
+            <media:content type="image/png" url="WC6.png" width="760" height="415"/>
+            <guid isPermaLink="false">WC6.png</guid>
+        </item>
+        <item>
+            <title>WC3</title>
+            <link>slides/WC3.html</link>
+            <pubDate>Tue, 27 Aug 2013 21:35:18 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/WC3.png" width="200" height="150"/>
+            <media:content type="image/png" url="WC3.png" width="760" height="410"/>
+            <guid isPermaLink="false">WC3.png</guid>
+        </item>
+        <item>
+            <title>WC2</title>
+            <link>slides/WC2.html</link>
+            <pubDate>Tue, 27 Aug 2013 21:35:18 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/WC2.png" width="200" height="150"/>
+            <media:content type="image/png" url="WC2.png" width="760" height="410"/>
+            <guid isPermaLink="false">WC2.png</guid>
+        </item>
+        <item>
+            <title>WC1</title>
+            <link>slides/WC1.html</link>
+            <pubDate>Tue, 27 Aug 2013 21:35:18 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/WC1.png" width="200" height="150"/>
+            <media:content type="image/png" url="WC1.png" width="760" height="420"/>
+            <guid isPermaLink="false">WC1.png</guid>
+        </item>
+    </channel>
+</rss>

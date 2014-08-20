@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Color Wall</title>
+   	<link>..</link>
+        <generator>jAlbum 11</generator>
+   		<description></description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+        <item>
+            <title>w-1augustine</title>
+            <link>slides/w-1augustine.html</link>
+            <pubDate>Wed, 18 Sep 2013 02:39:55 -0400</pubDate>
+            <description>St. Augustine Fort, FL | Colors : CW-280 Bark Brown</description>
+            <media:description type="html">St. Augustine Fort, FL | Colors : CW-280 Bark Brown</media:description>
+            <media:thumbnail url="thumbs/w-1augustine.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="w-1augustine.jpg" width="468" height="375"/>
+            <guid isPermaLink="false">w-1augustine.jpg</guid>
+        </item>
+        <item>
+            <title>w-2vancleave</title>
+            <link>slides/w-2vancleave.html</link>
+            <pubDate>Wed, 18 Sep 2013 02:39:55 -0400</pubDate>
+            <description>Limestone retaining baskets at Tulsa Country Club, OK | Colors: CW-270 Dark Adobe and CW-700 Fawn</description>
+            <media:description type="html">Limestone retaining baskets at Tulsa Country Club, OK | Colors: CW-270 Dark Adobe and CW-700 Fawn</media:description>
+            <media:thumbnail url="thumbs/w-2vancleave.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="w-2vancleave.jpg" width="760" height="375"/>
+            <jalbum:exif originalDate="11/16/07 2:13 AM" cameraMake="Canon" cameraModel="Canon PowerShot SD900"/>
+            <guid isPermaLink="false">w-2vancleave.jpg</guid>
+        </item>
+        <item>
+            <title>w-3cronk</title>
+            <link>slides/w-3cronk.html</link>
+            <pubDate>Wed, 18 Sep 2013 02:39:55 -0400</pubDate>
+            <description>Vertical application | Colors : Cw-200 Yellow Ochre, CW-280 Bark Brown, CW-700 Fawn and CW-710 Nutmeg</description>
+            <media:description type="html">Vertical application | Colors : Cw-200 Yellow Ochre, CW-280 Bark Brown, CW-700 Fawn and CW-710 Nutmeg</media:description>
+            <media:thumbnail url="thumbs/w-3cronk.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="w-3cronk.jpg" width="214" height="375"/>
+            <jalbum:exif originalDate="8/8/07 5:28 PM" cameraMake="JVC                " cameraModel="GZ-MG505           "/>
+            <guid isPermaLink="false">w-3cronk.jpg</guid>
+        </item>
+        <item>
+            <title>w-4monteith</title>
+            <link>slides/w-4monteith.html</link>
+            <pubDate>Wed, 18 Sep 2013 02:39:55 -0400</pubDate>
+            <description>Redi-Rock Wall | Color : CW-710 Nutmeg</description>
+            <media:description type="html">Redi-Rock Wall | Color : CW-710 Nutmeg</media:description>
+            <media:thumbnail url="thumbs/w-4monteith.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="w-4monteith.jpg" width="500" height="375"/>
+            <jalbum:exif originalDate="6/24/08 10:20 AM" cameraMake="SONY" cameraModel="DSC-H1"/>
+            <guid isPermaLink="false">w-4monteith.jpg</guid>
+        </item>
+        <item>
+            <title>w-5monteith</title>
+            <link>slides/w-5monteith.html</link>
+            <pubDate>Wed, 18 Sep 2013 02:39:55 -0400</pubDate>
+            <description>Faux Rock Wall | Colors : Base Color CW-700 Fawn : Highlight Color CW-630 Amber</description>
+            <media:description type="html">Faux Rock Wall | Colors : Base Color CW-700 Fawn : Highlight Color CW-630 Amber</media:description>
+            <media:thumbnail url="thumbs/w-5monteith.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="w-5monteith.jpg" width="519" height="375"/>
+            <jalbum:exif originalDate="4/9/08 3:25 PM" cameraMake="Research In Motion" cameraModel="BlackBerry 8130"/>
+            <guid isPermaLink="false">w-5monteith.jpg</guid>
+        </item>
+        <item>
+            <title>w-6monteith</title>
+            <link>slides/w-6monteith.html</link>
+            <pubDate>Wed, 18 Sep 2013 02:39:55 -0400</pubDate>
+            <description>Redi-Rock Wall | Colors : Base Color CW-700 Fawn : Highlight Colors CW-290 Dark Chocolate and CW-630 Amber</description>
+            <media:description type="html">Redi-Rock Wall | Colors : Base Color CW-700 Fawn : Highlight Colors CW-290 Dark Chocolate and CW-630 Amber</media:description>
+            <media:thumbnail url="thumbs/w-6monteith.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="w-6monteith.jpg" width="713" height="375"/>
+            <jalbum:exif originalDate="6/24/08 10:23 AM" cameraMake="SONY" cameraModel="DSC-H1"/>
+            <guid isPermaLink="false">w-6monteith.jpg</guid>
+        </item>
+        <item>
+            <title>
+					</title>
+            <link>slides/w-7steve_brown.html</link>
+            <pubDate>Wed, 18 Sep 2013 02:39:55 -0400</pubDate>
+            <description>Redi-Rock Wall | Colors : Base Color CW-700 Fawn : Highlight Colors CW-290 Dark Chocolate and CW-630 Amber</description>
+            <media:description type="html">Redi-Rock Wall | Colors : Base Color CW-700 Fawn : Highlight Colors CW-290 Dark Chocolate and CW-630 Amber</media:description>
+            <media:thumbnail url="thumbs/w-7steve_brown.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="w-7steve_brown.jpg" width="504" height="375"/>
+            <jalbum:exif originalDate="7/8/11 11:34 PM" cameraMake="NIKON" cameraModel="E8700"/>
+            <guid isPermaLink="false">w-7steve_brown.jpg</guid>
+        </item>
+    </channel>
+</rss>

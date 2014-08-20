@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Interiors</title>
+   	<link>../..</link>
+        <generator>jAlbum 11</generator>
+   		<description></description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+        <item>
+            <title>1</title>
+            <link>slides/1.html</link>
+            <pubDate>Wed, 18 Sep 2013 02:39:53 -0400</pubDate>
+            <description>At Your Service | Colors : CF-140 Black, CF-160 Patina, CF-170 Moss Green, CF-200 Yellow Ochre, CF-210 Sandstone, CF-240 Mars Red and CF-910 Ocean Blue</description>
+            <media:description type="html">At Your Service | Colors : CF-140 Black, CF-160 Patina, CF-170 Moss Green, CF-200 Yellow Ochre, CF-210 Sandstone, CF-240 Mars Red and CF-910 Ocean Blue</media:description>
+            <media:thumbnail url="thumbs/1.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="1.jpg" width="602" height="375"/>
+            <guid isPermaLink="false">1.jpg</guid>
+        </item>
+        <item>
+            <title>i-1demmert</title>
+            <link>slides/i-1demmert.html</link>
+            <pubDate>Wed, 18 Sep 2013 02:39:53 -0400</pubDate>
+            <description>7 For All Mankind | Colors : various mixtures CF-100 White, CF-160 Patina, CF-170 Moss Green, CF-180 Olive Green, CF-900 Purple and CF-910 Ocean Blue</description>
+            <media:description type="html">7 For All Mankind | Colors : various mixtures CF-100 White, CF-160 Patina, CF-170 Moss Green, CF-180 Olive Green, CF-900 Purple and CF-910 Ocean Blue</media:description>
+            <media:thumbnail url="thumbs/i-1demmert.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="i-1demmert.jpg" width="281" height="375"/>
+            <jalbum:exif originalDate="4/12/06 7:43 PM" cameraMake="Canon" cameraModel="Canon PowerShot SD500"/>
+            <guid isPermaLink="false">i-1demmert.jpg</guid>
+        </item>
+        <item>
+            <title>i-2demmert</title>
+            <link>slides/i-2demmert.html</link>
+            <pubDate>Wed, 18 Sep 2013 02:39:53 -0400</pubDate>
+            <description>7 For All Mankind | Color : CF-700 Fawn</description>
+            <media:description type="html">7 For All Mankind | Color : CF-700 Fawn</media:description>
+            <media:thumbnail url="thumbs/i-2demmert.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="i-2demmert.jpg" width="270" height="375"/>
+            <guid isPermaLink="false">i-2demmert.jpg</guid>
+        </item>
+        <item>
+            <title>i-3demmert</title>
+            <link>slides/i-3demmert.html</link>
+            <pubDate>Wed, 18 Sep 2013 02:39:53 -0400</pubDate>
+            <description>7 For All Mankind | Color : CF-700 Fawn</description>
+            <media:description type="html">7 For All Mankind | Color : CF-700 Fawn</media:description>
+            <media:thumbnail url="thumbs/i-3demmert.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="i-3demmert.jpg" width="281" height="375"/>
+            <guid isPermaLink="false">i-3demmert.jpg</guid>
+        </item>
+        <item>
+            <title>i-4demmert</title>
+            <link>slides/i-4demmert.html</link>
+            <pubDate>Wed, 18 Sep 2013 02:39:53 -0400</pubDate>
+            <description>7 For All Mankind | Colors : various mixtures CF-100 White, CF-160 Patina, CF-170 Moss Green, CF-180 Olive Green, CF-900 Purple and CF-910 Ocean Blue</description>
+            <media:description type="html">7 For All Mankind | Colors : various mixtures CF-100 White, CF-160 Patina, CF-170 Moss Green, CF-180 Olive Green, CF-900 Purple and CF-910 Ocean Blue</media:description>
+            <media:thumbnail url="thumbs/i-4demmert.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="i-4demmert.jpg" width="281" height="375"/>
+            <guid isPermaLink="false">i-4demmert.jpg</guid>
+        </item>
+        <item>
+            <title>i-5demmert</title>
+            <link>slides/i-5demmert.html</link>
+            <pubDate>Wed, 18 Sep 2013 02:39:53 -0400</pubDate>
+            <description>7 For All Mankind | Colors : various mixtures CF-100 White, CF-160 Patina, CF-170 Moss Green, CF-180 Olive Green, CF-900 Purple and CF-910 Ocean Blue</description>
+            <media:description type="html">7 For All Mankind | Colors : various mixtures CF-100 White, CF-160 Patina, CF-170 Moss Green, CF-180 Olive Green, CF-900 Purple and CF-910 Ocean Blue</media:description>
+            <media:thumbnail url="thumbs/i-5demmert.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="i-5demmert.jpg" width="281" height="375"/>
+            <guid isPermaLink="false">i-5demmert.jpg</guid>
+        </item>
+        <item>
+            <title>i-6monteith</title>
+            <link>slides/i-6monteith.html</link>
+            <pubDate>Wed, 18 Sep 2013 02:39:53 -0400</pubDate>
+            <description>CAPS-TV Studios | Color : CF-630 Amber</description>
+            <media:description type="html">CAPS-TV Studios | Color : CF-630 Amber</media:description>
+            <media:thumbnail url="thumbs/i-6monteith.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="i-6monteith.jpg" width="279" height="375"/>
+            <jalbum:exif originalDate="9/11/06 8:41 AM" cameraMake="SONY" cameraModel="DSC-H1"/>
+            <guid isPermaLink="false">i-6monteith.jpg</guid>
+        </item>
+        <item>
+            <title>i-7demmert</title>
+            <link>slides/i-7demmert.html</link>
+            <pubDate>Wed, 18 Sep 2013 02:39:53 -0400</pubDate>
+            <description>K9s Only Kennel | Colors : Base Color CF-700 Fawn : Logo Colors CF-140 Black with CF-100 White and CF-950 Orange mixture</description>
+            <media:description type="html">K9s Only Kennel | Colors : Base Color CF-700 Fawn : Logo Colors CF-140 Black with CF-100 White and CF-950 Orange mixture</media:description>
+            <media:thumbnail url="thumbs/i-7demmert.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="i-7demmert.jpg" width="500" height="375"/>
+            <jalbum:exif originalDate="5/8/02 9:06 PM" cameraMake="Canon" cameraModel="Canon PowerShot A20"/>
+            <guid isPermaLink="false">i-7demmert.jpg</guid>
+        </item>
+        <item>
+            <title>i-8demmert</title>
+            <link>slides/i-8demmert.html</link>
+            <pubDate>Wed, 18 Sep 2013 02:39:53 -0400</pubDate>
+            <description>K9s Only Kennel | Color : CF-570 Loden</description>
+            <media:description type="html">K9s Only Kennel | Color : CF-570 Loden</media:description>
+            <media:thumbnail url="thumbs/i-8demmert.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="i-8demmert.jpg" width="500" height="375"/>
+            <jalbum:exif originalDate="5/8/02 9:00 PM" cameraMake="Canon" cameraModel="Canon PowerShot A20"/>
+            <guid isPermaLink="false">i-8demmert.jpg</guid>
+        </item>
+        <item>
+            <title>i-9demmert</title>
+            <link>slides/i-9demmert.html</link>
+            <pubDate>Wed, 18 Sep 2013 02:39:53 -0400</pubDate>
+            <description>K9s Only Kennel | Color : CF-560 Sea Foam</description>
+            <media:description type="html">K9s Only Kennel | Color : CF-560 Sea Foam</media:description>
+            <media:thumbnail url="thumbs/i-9demmert.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="i-9demmert.jpg" width="500" height="375"/>
+            <jalbum:exif originalDate="5/8/02 8:59 PM" cameraMake="Canon" cameraModel="Canon PowerShot A20"/>
+            <guid isPermaLink="false">i-9demmert.jpg</guid>
+        </item>
+        <item>
+            <title>j-1parasconcrete</title>
+            <link>slides/j-1parasconcrete.html</link>
+            <pubDate>Wed, 18 Sep 2013 02:39:53 -0400</pubDate>
+            <description>Paras Concrete | Color : CF-700 Fawn</description>
+            <media:description type="html">Paras Concrete | Color : CF-700 Fawn</media:description>
+            <media:thumbnail url="thumbs/j-1parasconcrete.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="j-1parasconcrete.jpg" width="250" height="375"/>
+            <jalbum:exif originalDate="3/5/08 8:23 PM" cameraMake="Canon" cameraModel="Canon EOS 5D"/>
+            <guid isPermaLink="false">j-1parasconcrete.jpg</guid>
+        </item>
+        <item>
+            <title>j-2cronk</title>
+            <link>slides/j-2cronk.html</link>
+            <pubDate>Wed, 18 Sep 2013 02:39:53 -0400</pubDate>
+            <description>Spec-West | Colors : CF-220 Pottery, CF-900 Purple, CF-910 Ocean Blue, CF-930 Green, CF-940 Yellow and CF-960 Red</description>
+            <media:description type="html">Spec-West | Colors : CF-220 Pottery, CF-900 Purple, CF-910 Ocean Blue, CF-930 Green, CF-940 Yellow and CF-960 Red</media:description>
+            <media:thumbnail url="thumbs/j-2cronk.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="j-2cronk.jpg" width="500" height="375"/>
+            <jalbum:exif originalDate="9/5/06 12:19 PM" cameraMake="EASTMAN KODAK COMPANY" cameraModel="KODAK DX4530 ZOOM DIGITAL CAMERA"/>
+            <guid isPermaLink="false">j-2cronk.jpg</guid>
+        </item>
+        <item>
+            <title>j-3pipprinting</title>
+            <link>slides/j-3pipprinting.html</link>
+            <pubDate>Wed, 18 Sep 2013 02:39:53 -0400</pubDate>
+            <description>Pip Printing | Colors : Base Colors CF-210 Sandstone and CF-280 Bark Brown : Band Color CF-290 Dark Chocolate</description>
+            <media:description type="html">Pip Printing | Colors : Base Colors CF-210 Sandstone and CF-280 Bark Brown : Band Color CF-290 Dark Chocolate</media:description>
+            <media:thumbnail url="thumbs/j-3pipprinting.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="j-3pipprinting.jpg" width="467" height="375"/>
+            <jalbum:exif originalDate="4/11/07 10:11 AM" cameraMake="FUJIFILM" cameraModel="FinePix S3100  "/>
+            <guid isPermaLink="false">j-3pipprinting.jpg</guid>
+        </item>
+        <item>
+            <title>j-4donnarosa</title>
+            <link>slides/j-4donnarosa.html</link>
+            <pubDate>Wed, 18 Sep 2013 02:39:53 -0400</pubDate>
+            <description>Donna Rosa Restaurant | Colors : CF-220 Pottery and CF-280 Bark Brown</description>
+            <media:description type="html">Donna Rosa Restaurant | Colors : CF-220 Pottery and CF-280 Bark Brown</media:description>
+            <media:thumbnail url="thumbs/j-4donnarosa.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="j-4donnarosa.jpg" width="328" height="375"/>
+            <jalbum:exif originalDate="3/18/01 7:26 AM" cameraMake="Canon" cameraModel="Canon PowerShot A20"/>
+            <guid isPermaLink="false">j-4donnarosa.jpg</guid>
+        </item>
+        <item>
+            <title>j-5vancleave</title>
+            <link>slides/j-5vancleave.html</link>
+            <pubDate>Wed, 18 Sep 2013 02:39:53 -0400</pubDate>
+            <description>Furniture Store | Colors : CF-290 Dark Chocolate</description>
+            <media:description type="html">Furniture Store | Colors : CF-290 Dark Chocolate</media:description>
+            <media:thumbnail url="thumbs/j-5vancleave.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="j-5vancleave.jpg" width="816" height="375"/>
+            <jalbum:exif originalDate="1/15/06 6:17 AM" cameraMake="EASTMAN KODAK COMPANY" cameraModel="KODAK DX6490 ZOOM DIGITAL CAMERA"/>
+            <guid isPermaLink="false">j-5vancleave.jpg</guid>
+        </item>
+        <item>
+            <title>j-6vancleave</title>
+            <link>slides/j-6vancleave.html</link>
+            <pubDate>Wed, 18 Sep 2013 02:39:53 -0400</pubDate>
+            <description>Bank Lobby |  Colors : CF-230 Terra Cotta</description>
+            <media:description type="html">Bank Lobby |  Colors : CF-230 Terra Cotta</media:description>
+            <media:thumbnail url="thumbs/j-6vancleave.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="j-6vancleave.jpg" width="500" height="375"/>
+            <jalbum:exif originalDate="1/29/03 9:43 PM" cameraMake="EASTMAN KODAK COMPANY" cameraModel="KODAK DX6490 ZOOM DIGITAL CAMERA"/>
+            <guid isPermaLink="false">j-6vancleave.jpg</guid>
+        </item>
+        <item>
+            <title>j-7ochs</title>
+            <link>slides/j-7ochs.html</link>
+            <pubDate>Wed, 18 Sep 2013 02:39:53 -0400</pubDate>
+            <description>Living Room | Colors : CF-160 Patina, CF-200 Yellow Ochre, CF-210 Sandstone and CF-270 Dark Adobe</description>
+            <media:description type="html">Living Room | Colors : CF-160 Patina, CF-200 Yellow Ochre, CF-210 Sandstone and CF-270 Dark Adobe</media:description>
+            <media:thumbnail url="thumbs/j-7ochs.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="j-7ochs.jpg" width="534" height="375"/>
+            <jalbum:exif originalDate="8/25/05 9:37 AM" cameraMake="NIKON CORPORATION" cameraModel="NIKON D70"/>
+            <guid isPermaLink="false">j-7ochs.jpg</guid>
+        </item>
+        <item>
+            <title>j-8vancleave</title>
+            <link>slides/j-8vancleave.html</link>
+            <pubDate>Wed, 18 Sep 2013 02:39:53 -0400</pubDate>
+            <description>Breakfast Table | Colors : CF-280 Bark Brown</description>
+            <media:description type="html">Breakfast Table | Colors : CF-280 Bark Brown</media:description>
+            <media:thumbnail url="thumbs/j-8vancleave.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="j-8vancleave.jpg" width="470" height="375"/>
+            <jalbum:exif originalDate="3/8/03 5:41 AM" cameraMake="EASTMAN KODAK COMPANY" cameraModel="KODAK DX6490 ZOOM DIGITAL CAMERA"/>
+            <guid isPermaLink="false">j-8vancleave.jpg</guid>
+        </item>
+        <item>
+            <title>j-9vancleave</title>
+            <link>slides/j-9vancleave.html</link>
+            <pubDate>Wed, 18 Sep 2013 02:39:53 -0400</pubDate>
+            <description>Office | Colors : CF-910 Ocean Blue</description>
+            <media:description type="html">Office | Colors : CF-910 Ocean Blue</media:description>
+            <media:thumbnail url="thumbs/j-9vancleave.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="j-9vancleave.jpg" width="500" height="375"/>
+            <jalbum:exif originalDate="11/30/02 12:00 AM" cameraMake="NIKON" cameraModel="E775"/>
+            <guid isPermaLink="false">j-9vancleave.jpg</guid>
+        </item>
+        <item>
+            <title>k-1ochs</title>
+            <link>slides/k-1ochs.html</link>
+            <pubDate>Wed, 18 Sep 2013 02:39:53 -0400</pubDate>
+            <description>Shower | Colors : Walls CF-700 Fawn : Mural mixture of CF-100 White, CF-560 Sea Foam and CF-910 Ocean Blue</description>
+            <media:description type="html">Shower | Colors : Walls CF-700 Fawn : Mural mixture of CF-100 White, CF-560 Sea Foam and CF-910 Ocean Blue</media:description>
+            <media:thumbnail url="thumbs/k-1ochs.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="k-1ochs.jpg" width="564" height="375"/>
+            <jalbum:exif originalDate="12/24/06 11:36 PM" cameraMake="NIKON CORPORATION" cameraModel="NIKON D70"/>
+            <guid isPermaLink="false">k-1ochs.jpg</guid>
+        </item>
+        <item>
+            <title>k-2</title>
+            <link>slides/k-2.html</link>
+            <pubDate>Wed, 18 Sep 2013 02:39:53 -0400</pubDate>
+            <description>Recreation Room | Colors : Base Colors CF-250 Desert Sand : Highlight and Band Color CF-280 Bark Brown</description>
+            <media:description type="html">Recreation Room | Colors : Base Colors CF-250 Desert Sand : Highlight and Band Color CF-280 Bark Brown</media:description>
+            <media:thumbnail url="thumbs/k-2.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="k-2.jpg" width="562" height="375"/>
+            <jalbum:exif originalDate="2/11/05 9:28 AM" cameraMake="EASTMAN KODAK COMPANY" cameraModel="KODAK DX4900 ZOOM DIGITAL CAMERA"/>
+            <guid isPermaLink="false">k-2.jpg</guid>
+        </item>
+        <item>
+            <title>k-3monteith</title>
+            <link>slides/k-3monteith.html</link>
+            <pubDate>Wed, 18 Sep 2013 02:39:53 -0400</pubDate>
+            <description>Kitchen | Colors : Base Color CF-250 Desert Sand : Stencil Color CF-280 Bark Brown</description>
+            <media:description type="html">Kitchen | Colors : Base Color CF-250 Desert Sand : Stencil Color CF-280 Bark Brown</media:description>
+            <media:thumbnail url="thumbs/k-3monteith.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="k-3monteith.jpg" width="500" height="375"/>
+            <guid isPermaLink="false">k-3monteith.jpg</guid>
+        </item>
+        <item>
+            <title>k-4monteith</title>
+            <link>slides/k-4monteith.html</link>
+            <pubDate>Wed, 18 Sep 2013 02:39:53 -0400</pubDate>
+            <description>Hallway | Colors : Base Color CF-250 Desert Sand : Stencil Color CF-280 Bark Brown</description>
+            <media:description type="html">Hallway | Colors : Base Color CF-250 Desert Sand : Stencil Color CF-280 Bark Brown</media:description>
+            <media:thumbnail url="thumbs/k-4monteith.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="k-4monteith.jpg" width="500" height="375"/>
+            <guid isPermaLink="false">k-4monteith.jpg</guid>
+        </item>
+        <item>
+            <title>k-4monteith1</title>
+            <link>slides/k-4monteith1.html</link>
+            <pubDate>Wed, 18 Sep 2013 02:39:53 -0400</pubDate>
+            <description>Stencil | Colors : Base Color CF-250 Desert Sand : Stencil Color CF-280 Bark Brown </description>
+            <media:description type="html">Stencil | Colors : Base Color CF-250 Desert Sand : Stencil Color CF-280 Bark Brown </media:description>
+            <media:thumbnail url="thumbs/k-4monteith1.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="k-4monteith1.jpg" width="365" height="375"/>
+            <guid isPermaLink="false">k-4monteith1.jpg</guid>
+        </item>
+        <item>
+            <title>k-5michaelcook</title>
+            <link>slides/k-5michaelcook.html</link>
+            <pubDate>Wed, 18 Sep 2013 02:39:53 -0400</pubDate>
+            <description>Kitchen Countertop | Colors : CF-29 Dark Chocolate</description>
+            <media:description type="html">Kitchen Countertop | Colors : CF-29 Dark Chocolate</media:description>
+            <media:thumbnail url="thumbs/k-5michaelcook.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="k-5michaelcook.jpg" width="1074" height="375"/>
+            <jalbum:exif originalDate="12/14/05 1:49 PM" cameraMake="FUJIFILM" cameraModel="FinePix S5100  "/>
+            <guid isPermaLink="false">k-5michaelcook.jpg</guid>
+        </item>
+        <item>
+            <title>k-6michaelcook</title>
+            <link>slides/k-6michaelcook.html</link>
+            <pubDate>Wed, 18 Sep 2013 02:39:53 -0400</pubDate>
+            <description>Kitchen Countertop | Colors : CF-260 Light Adobe with Color Accents 415 Metallic Copper</description>
+            <media:description type="html">Kitchen Countertop | Colors : CF-260 Light Adobe with Color Accents 415 Metallic Copper</media:description>
+            <media:thumbnail url="thumbs/k-6michaelcook.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="k-6michaelcook.jpg" width="644" height="375"/>
+            <jalbum:exif originalDate="5/31/06 8:07 AM" cameraMake="FUJIFILM" cameraModel="FinePix S5100  "/>
+            <guid isPermaLink="false">k-6michaelcook.jpg</guid>
+        </item>
+        <item>
+            <title>k-7cronk1</title>
+            <link>slides/k-7cronk1.html</link>
+            <pubDate>Wed, 18 Sep 2013 02:39:53 -0400</pubDate>
+            <description>Fireplace | Colors : Various mixtures of CF-250 Desert Sand, CF-280 Bark Brown, CF-630 Amber, CF-700 Fawn, Color Accents Metallic 410 Bronze and 415 Copper</description>
+            <media:description type="html">Fireplace | Colors : Various mixtures of CF-250 Desert Sand, CF-280 Bark Brown, CF-630 Amber, CF-700 Fawn, Color Accents Metallic 410 Bronze and 415 Copper</media:description>
+            <media:thumbnail url="thumbs/k-7cronk1.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="k-7cronk1.jpg" width="249" height="375"/>
+            <jalbum:exif originalDate="4/28/05 9:45 PM" cameraMake="NIKON CORPORATION" cameraModel="NIKON D50"/>
+            <guid isPermaLink="false">k-7cronk1.jpg</guid>
+        </item>
+        <item>
+            <title>k-8mmeewis</title>
+            <link>slides/k-8mmeewis.html</link>
+            <pubDate>Wed, 18 Sep 2013 02:39:53 -0400</pubDate>
+            <description>Microtopping | Colors : Base Color CF-250 Desert Sand : Highlight Color CF-280 Bark Brown</description>
+            <media:description type="html">Microtopping | Colors : Base Color CF-250 Desert Sand : Highlight Color CF-280 Bark Brown</media:description>
+            <media:thumbnail url="thumbs/k-8mmeewis.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="k-8mmeewis.jpg" width="500" height="374"/>
+            <jalbum:exif originalDate="10/20/07 1:21 PM" cameraMake="Hewlett-Packard" cameraModel="HP PhotoSmart C945 (V01.60) "/>
+            <guid isPermaLink="false">k-8mmeewis.jpg</guid>
+        </item>
+        <item>
+            <title>k-9meewisground</title>
+            <link>slides/k-9meewisground.html</link>
+            <pubDate>Wed, 18 Sep 2013 02:39:53 -0400</pubDate>
+            <description>Ground Concrete | Colors : Base Color CF-250 Desert Sand : Highlight Color CF-280 Bark Brown</description>
+            <media:description type="html">Ground Concrete | Colors : Base Color CF-250 Desert Sand : Highlight Color CF-280 Bark Brown</media:description>
+            <media:thumbnail url="thumbs/k-9meewisground.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="k-9meewisground.jpg" width="500" height="374"/>
+            <jalbum:exif originalDate="6/21/08 2:22 PM" cameraMake="Hewlett-Packard" cameraModel="HP PhotoSmart C945 (V01.60) "/>
+            <guid isPermaLink="false">k-9meewisground.jpg</guid>
+        </item>
+        <item>
+            <title>l-1meewis5169</title>
+            <link>slides/l-1meewis5169.html</link>
+            <pubDate>Wed, 18 Sep 2013 02:39:53 -0400</pubDate>
+            <description>Microtopping | Colors : Base Color CF-250 Desert Sand : Highlight Color CF-290 Dark Chocolate</description>
+            <media:description type="html">Microtopping | Colors : Base Color CF-250 Desert Sand : Highlight Color CF-290 Dark Chocolate</media:description>
+            <media:thumbnail url="thumbs/l-1meewis5169.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="l-1meewis5169.jpg" width="500" height="374"/>
+            <jalbum:exif originalDate="7/6/08 4:14 PM" cameraMake="Hewlett-Packard" cameraModel="HP PhotoSmart C945 (V01.60) "/>
+            <guid isPermaLink="false">l-1meewis5169.jpg</guid>
+        </item>
+        <item>
+            <title>l-2meewis5161</title>
+            <link>slides/l-2meewis5161.html</link>
+            <pubDate>Wed, 18 Sep 2013 02:39:53 -0400</pubDate>
+            <description>Microtopping | Colors : Base Color CF-250 Desert Sand : Highlight Color CF-290 Dark Chocolate</description>
+            <media:description type="html">Microtopping | Colors : Base Color CF-250 Desert Sand : Highlight Color CF-290 Dark Chocolate</media:description>
+            <media:thumbnail url="thumbs/l-2meewis5161.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="l-2meewis5161.jpg" width="500" height="374"/>
+            <jalbum:exif originalDate="7/2/08 7:24 AM" cameraMake="Hewlett-Packard" cameraModel="HP PhotoSmart C945 (V01.60) "/>
+            <guid isPermaLink="false">l-2meewis5161.jpg</guid>
+        </item>
+    </channel>
+</rss>

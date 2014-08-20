@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Nathan Giffin</title>
+   	<link>../..</link>
+        <generator>jAlbum 11</generator>
+   		<description></description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+        <item>
+            <title>1nathan_doorway</title>
+            <link>slides/1nathan_doorway.html</link>
+            <pubDate>Wed, 18 Sep 2013 02:39:57 -0400</pubDate>
+            <description>Wine cellar stone arch        </description>
+            <media:description type="html">Wine cellar stone arch        </media:description>
+            <media:thumbnail url="thumbs/1nathan_doorway.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="1nathan_doorway.jpg" width="281" height="375"/>
+            <jalbum:exif originalDate="11/30/02 12:00 AM" cameraMake="OLYMPUS OPTICAL CO.,LTD" cameraModel="X-2,C-50Z       "/>
+            <guid isPermaLink="false">1nathan_doorway.jpg</guid>
+        </item>
+        <item>
+            <title>2nathan_wineroom</title>
+            <link>slides/2nathan_wineroom.html</link>
+            <pubDate>Wed, 18 Sep 2013 02:39:57 -0400</pubDate>
+            <description>Faux stone wall| with bottle storage       </description>
+            <media:description type="html">Faux stone wall| with bottle storage       </media:description>
+            <media:thumbnail url="thumbs/2nathan_wineroom.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="2nathan_wineroom.jpg" width="500" height="375"/>
+            <jalbum:exif originalDate="11/30/02 12:00 AM" cameraMake="OLYMPUS OPTICAL CO.,LTD" cameraModel="X-2,C-50Z       "/>
+            <guid isPermaLink="false">2nathan_wineroom.jpg</guid>
+        </item>
+        <item>
+            <title>3nathan_winewall</title>
+            <link>slides/3nathan_winewall.html</link>
+            <pubDate>Wed, 18 Sep 2013 02:39:57 -0400</pubDate>
+            <description>Wine room        </description>
+            <media:description type="html">Wine room        </media:description>
+            <media:thumbnail url="thumbs/3nathan_winewall.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="3nathan_winewall.jpg" width="500" height="375"/>
+            <jalbum:exif originalDate="5/27/03 3:08 PM" cameraMake="OLYMPUS OPTICAL CO.,LTD" cameraModel="X-2,C-50Z       "/>
+            <guid isPermaLink="false">3nathan_winewall.jpg</guid>
+        </item>
+        <item>
+            <title>4nathan_mainarch</title>
+            <link>slides/4nathan_mainarch.html</link>
+            <pubDate>Wed, 18 Sep 2013 02:39:57 -0400</pubDate>
+            <description>Wine cellar entrance         </description>
+            <media:description type="html">Wine cellar entrance         </media:description>
+            <media:thumbnail url="thumbs/4nathan_mainarch.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="4nathan_mainarch.jpg" width="281" height="375"/>
+            <jalbum:exif originalDate="6/17/03 5:27 PM" cameraMake="OLYMPUS OPTICAL CO.,LTD" cameraModel="X-2,C-50Z       "/>
+            <guid isPermaLink="false">4nathan_mainarch.jpg</guid>
+        </item>
+    </channel>
+</rss>

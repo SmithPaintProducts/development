@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Color Hardener, Cast-On Antique, and Pigment Packs</title>
+   	<link>..</link>
+        <generator>jAlbum 12</generator>
+   		<description></description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+        <item>
+            <title>Smith's Color Hardener (Part I)</title>
+            <link>slides/top_colorhard_colorchart.html</link>
+            <pubDate>Tue, 19 Aug 2014 16:50:43 -0400</pubDate>
+            <description>Top Half of Smith's Color Hardener Color Chart</description>
+            <media:description type="html">Top Half of Smith's Color Hardener Color Chart</media:description>
+            <media:thumbnail url="thumbs/top_colorhard_colorchart.jpg" width="200" height="150"/>
+            <media:content type="image/jpeg" url="top_colorhard_colorchart.jpg" width="5100" height="3420"/>
+            <guid isPermaLink="false">top_colorhard_colorchart.jpg</guid>
+        </item>
+        <item>
+            <title>Smith's Color Hardener (Part II)</title>
+            <link>slides/bottom_colorhard_colorchart.html</link>
+            <pubDate>Tue, 19 Aug 2014 16:50:43 -0400</pubDate>
+            <description>Bottom Half of Smith's Color Hardener Color Chart</description>
+            <media:description type="html">Bottom Half of Smith's Color Hardener Color Chart</media:description>
+            <media:thumbnail url="thumbs/bottom_colorhard_colorchart.jpg" width="200" height="150"/>
+            <media:content type="image/jpeg" url="bottom_colorhard_colorchart.jpg" width="5088" height="2640"/>
+            <guid isPermaLink="false">bottom_colorhard_colorchart.jpg</guid>
+        </item>
+    </channel>
+</rss>

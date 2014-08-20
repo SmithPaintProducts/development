@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>photo_gallery11</title>
+   	<link>../..</link>
+        <generator>jAlbum 11</generator>
+   		<description></description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+        <item>
+            <title>cfcw3</title>
+            <link>slides/cfcw3.html</link>
+            <pubDate>Tue, 27 Aug 2013 21:35:18 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/cfcw3.png" width="200" height="150"/>
+            <media:content type="image/png" url="cfcw3.png" width="740" height="630"/>
+            <guid isPermaLink="false">cfcw3.png</guid>
+        </item>
+        <item>
+            <title>cfcw4</title>
+            <link>slides/cfcw4.html</link>
+            <pubDate>Tue, 27 Aug 2013 21:35:18 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/cfcw4.png" width="200" height="150"/>
+            <media:content type="image/png" url="cfcw4.png" width="760" height="645"/>
+            <guid isPermaLink="false">cfcw4.png</guid>
+        </item>
+        <item>
+            <title>cfcw2</title>
+            <link>slides/cfcw2.html</link>
+            <pubDate>Tue, 27 Aug 2013 21:35:18 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/cfcw2.png" width="200" height="150"/>
+            <media:content type="image/png" url="cfcw2.png" width="740" height="430"/>
+            <guid isPermaLink="false">cfcw2.png</guid>
+        </item>
+        <item>
+            <title>cfcw1</title>
+            <link>slides/cfcw1.html</link>
+            <pubDate>Tue, 27 Aug 2013 21:35:18 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/cfcw1.png" width="200" height="150"/>
+            <media:content type="image/png" url="cfcw1.png" width="1650" height="670"/>
+            <guid isPermaLink="false">cfcw1.png</guid>
+        </item>
+    </channel>
+</rss>
